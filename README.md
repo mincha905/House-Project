@@ -1,15 +1,18 @@
 #  :city_sunrise: 빠방
-### 프로젝트 소개
+### 🪄프로젝트 소개
 부동산 매물을 등록할 수 있고, 회원은 위치를 기반으로 매물을 조회하고 계약 할 수 있는 Servlet/JSP 기반의 웹사이트입니다.<br>
 <br>
-### 기술 스택
-html5, css3, javascript, java, oracle, bootstrap, jquery<br>
-### 개발 환경
-windowes, vscode, eclipse<br>
-### ERD
-<img src="https://user-images.githubusercontent.com/111429706/185704120-3cfe5153-5578-4569-83c2-713b86798ab1.png" width="830" height="530"/>
+### 🔮개발 환경
+&nbsp; &nbsp; - Oracle version : Oracle Database 11g <br>
+&nbsp; &nbsp; - Development tool : Eclipse, DBeaver, ERDCloud <br>
+&nbsp; &nbsp; - 개발 언어 : Java 11, JSP, HTML, CSS, JS <br>
 
-### API 및 Library
+<br>
+
+### 💫ERD
+<img src="https://user-images.githubusercontent.com/111429706/185704120-3cfe5153-5578-4569-83c2-713b86798ab1.png" width="840" height="540"/>
+
+### 📚API 및 Library
 
 #### API
 
