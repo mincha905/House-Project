@@ -9,10 +9,13 @@
 
 <br>
 
-### 🪄개발 환경
+### 🛠 개발 환경 
 &nbsp; &nbsp; • &nbsp;Oracle version : Oracle Database 11g <br>
 &nbsp; &nbsp; • &nbsp;Development tool : Eclipse, DBeaver, ERDCloud <br>
-&nbsp; &nbsp; • &nbsp;개발 언어 : Java 11, JSP, HTML, CSS, JS <br>
+&nbsp; &nbsp; • &nbsp;개발 언어 : Java 11, JSP, HTML, CSS, JS <br> <br>
+
+### 🪄 프로젝트 기간 및 역할
+
 
 <br>
 
